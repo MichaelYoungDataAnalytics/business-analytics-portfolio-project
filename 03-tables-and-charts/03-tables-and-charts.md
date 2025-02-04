@@ -6,18 +6,10 @@ Day 3 of this Excel tutorial introduces simple use of tables and charts
 
 ![tables-and-charts-(chart)](https://github.com/user-attachments/assets/e93abf7d-b0a3-441e-81c5-37c3173250f0)
 
-Cherry Red hexcode (#D2042D)
-
-Oak hexcode (#D8B589)
+* Cherry Red hexcode (#D2042D) | Oak hexcode (#D8B589)
 
 ![03-tables-and-charts-(table-2)](https://github.com/user-attachments/assets/86c898cf-19f0-473b-b919-652d7345cf2c)
 
 ![03-tables-and-charts-(chart-2)](https://github.com/user-attachments/assets/cc980efe-7989-444a-b697-d24857a974e0)
 
-Cotton hexcode (#FBFBF9)
-
-"Hard Hat" Orange hexcode (#FF6600)
-
-"Socialist" Red hexcode (#921a1c)
-
-"Denim Jeans" Blue hexcode (#6F8FAF)
+* Cotton hexcode (#FBFBF9) | "Hard Hat" Orange hexcode (#FF6600) | "Socialist" Red hexcode (#921a1c) | "Denim Jeans" Blue hexcode (#6F8FAF)
