@@ -9,9 +9,11 @@ Day 3 of this Excel tutorial introduces simple use of tables and charts
 * Cherry Red hexcode (#D2042D)
 * Oak hexcode (#D8B589)
 
-Sometimes it is fun to play with thematic colors on charts, but this is often a trap, because it is ineffiecient.
+Here is another scenario:
 
 ![03-tables-and-charts-(table-2)](https://github.com/user-attachments/assets/86c898cf-19f0-473b-b919-652d7345cf2c)
+
+Sometimes it is fun to play with thematic colors on charts, but this is often a trap, because it is ineffiecient.
 
 ![03-tables-and-charts-(chart-2)](https://github.com/user-attachments/assets/cc980efe-7989-444a-b697-d24857a974e0)
 
