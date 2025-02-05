@@ -5,6 +5,8 @@ Day 4 of this Excel tutorial introduces one-way data tables
 
 ![04-one-way-data-table-(table-1)](https://github.com/user-attachments/assets/3352f7ae-1318-4a55-89d2-fbecde1a71f4)
 
+Charts may be created from selecting the data table:
+
 ![04-one-way-data-table-(chart)](https://github.com/user-attachments/assets/be29fcaa-f209-4f02-887c-bad71908f53b)
 
 Another example of filling out a one-way data table using a ghost cell:
