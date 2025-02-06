@@ -1,7 +1,9 @@
 Day 5 of this Excel tutorial introduces two-way data tables
 
 *=IF formula
+
 *=VLOOKUP formula
+
 *Conditional Formating
 
 ![05-two-way-data-tables-(model-1)](https://github.com/user-attachments/assets/b5523845-540e-48bf-971a-de301b5c8a73)
