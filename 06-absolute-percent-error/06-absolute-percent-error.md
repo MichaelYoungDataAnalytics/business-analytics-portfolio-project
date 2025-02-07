@@ -28,3 +28,7 @@ Day 6 of this Excel tutorial introduces absolute percent error
 ### An even deeper dive into the business problem by constructing a two-way-data-table:
 
 ![06-absolute-percent-error-(two-way-data-table)](https://github.com/user-attachments/assets/24e112ef-0103-40c1-a169-092f89e797a9)
+
+### Another example showcasing MAPE (Mean Absolute Percentage Error) using the =AVERAGE function:
+
+![06-absolute-percent-error-(MAPE)](https://github.com/user-attachments/assets/850ca47e-28a6-48d5-92ec-8de5e84c7731)
