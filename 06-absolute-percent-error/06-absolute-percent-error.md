@@ -21,7 +21,9 @@ Day 6 of this Excel tutorial introduces absolute percent error
 
 ### Set up a price vs. profit table with a chart
 
-![06-absolute-percent-error-(price-vs-profit-table)](https://github.com/user-attachments/assets/20685b82-0ed3-4187-8165-a19f81902306) ![06-absolute-percent-error-(price-vs-profit-chart)](https://github.com/user-attachments/assets/a644749c-6010-4827-8567-b20a1825f5c4)
+![06-absolute-percent-error-(price-vs-profit-table)](https://github.com/user-attachments/assets/20685b82-0ed3-4187-8165-a19f81902306)
+
+![06-absolute-percent-error-(price-vs-profit-chart)](https://github.com/user-attachments/assets/a644749c-6010-4827-8567-b20a1825f5c4)
 
 ### An even deeper dive into the business problem by constructing a two-way-data-table:
 
