@@ -1,6 +1,6 @@
 Day 5 of this Excel tutorial introduces two-way data tables
 
-* =IF formula
+* =IF function
 
 * =VLOOKUP formula
 
