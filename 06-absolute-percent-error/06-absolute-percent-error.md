@@ -1,4 +1,4 @@
-Day 6 of this Excel tutorial introduces absolute percent error
+Day 6 of this Excel tutorial introduces absolute percent error.
 
 * =ABS function
 * Linear Model: y=a+bx
