@@ -1,4 +1,4 @@
-Day 2 of this Excel tutorial introduces basic spreadsheet models for a business's profits
+Day 2 of this Excel tutorial introduces basic spreadsheet models for a business's profits.
 
 * =MIN function
 * =MAX function
