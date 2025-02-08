@@ -1,4 +1,4 @@
-Day 7 of this Excel tutorial introduces net present value.
+Day 7 of this Excel tutorial introduces net present value
 
 * =NPV formula
 
