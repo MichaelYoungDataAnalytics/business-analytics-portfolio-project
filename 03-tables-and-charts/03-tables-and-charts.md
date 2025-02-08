@@ -1,4 +1,4 @@
-Day 3 of this Excel tutorial introduces simple use of tables and charts
+Day 3 of this Excel tutorial introduces simple use of tables and charts.
 
 * Absolute Referencing ($A$1)
 
