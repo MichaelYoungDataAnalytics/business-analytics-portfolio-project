@@ -1,4 +1,4 @@
-Day 1 of this Excel tutorial introduces basic budgeting concepts
+Day 1 of this Excel tutorial introduces basic budgeting concepts.
 
 * Excel operations
 * =SUM function
