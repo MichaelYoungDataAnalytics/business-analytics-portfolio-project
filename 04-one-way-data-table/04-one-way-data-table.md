@@ -1,4 +1,4 @@
-Day 4 of this Excel tutorial introduces one-way data tables.
+## Day 4 of this Excel tutorial introduces one-way data tables.
 
 * Ghost Cell
 * Goal Seek
