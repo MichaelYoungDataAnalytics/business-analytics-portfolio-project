@@ -1,4 +1,4 @@
-Day 5 of this Excel tutorial introduces two-way data tables
+Day 5 of this Excel tutorial introduces two-way data tables.
 
 * =IF function
 
