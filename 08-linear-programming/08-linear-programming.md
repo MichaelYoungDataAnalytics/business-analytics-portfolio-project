@@ -4,7 +4,7 @@
 * =SUMPRODUCT function
 * Summary Sentence
 
-There will be several exercises featuring linear programming:
+### There will be several exercises featuring linear programming:
 
 ![08-linear-programming-ex-1](https://github.com/user-attachments/assets/32b89ea5-5f5b-4cd1-87ae-667e84ee2d0b)
 
