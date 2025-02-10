@@ -2,6 +2,7 @@
 
 * Constraint Table
 * =SUMPRODUCT function
+* Simplex LP
 * Summary Sentence
 
 ### There will be several exercises featuring linear programming:
