@@ -10,7 +10,7 @@
 
 ![09-nonlinear-programming-2-(solver)](https://github.com/user-attachments/assets/c6b7bfdb-b472-4e59-b0e2-71c7e06d81fa)
 
-### These next two examples don't need a constrant table. Solver only needs to find maximum profit:
+### These next two examples do not need a constrant table. Solver only needs to find maximum profit:
 
 ![09-nonlinear-programming-3-(model)](https://github.com/user-attachments/assets/866ebde6-4bd6-4751-b645-9c204fd81619)
 
