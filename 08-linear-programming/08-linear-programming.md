@@ -31,10 +31,3 @@
 ![08-linear-programming-ex-10](https://github.com/user-attachments/assets/1adf3136-4ba5-4140-bbe6-75b2ced8fda4)
 
 ![08-linear-programming-ex-11](https://github.com/user-attachments/assets/ead28b0b-8759-4973-b93e-633eab9f7d63)
-
-![08-linear-programming-ex-12](https://github.com/user-attachments/assets/2adcc258-f152-4fcf-ae44-b5562fbe9651)
-
-![08-linear-programming-ex-13](https://github.com/user-attachments/assets/e3522c0a-3117-44a2-91d9-60146644f301)
-
-![08-linear-programming-ex-14](https://github.com/user-attachments/assets/147538bd-ee28-4f3f-bdf6-d0c24895c9a5)
-
