@@ -15,3 +15,5 @@
 ![10-transportation-problem-6-1](https://github.com/user-attachments/assets/ef4cb4d2-3035-4d60-8bfd-213f2335c0fa)
 
 ![10-transportation-problem-6-2](https://github.com/user-attachments/assets/95f675fc-6a14-4074-b6e3-0bd2d0667c27)
+
+![lp-extra](https://github.com/user-attachments/assets/eea548ca-06a7-4940-a4cf-e5f6ca4fc3a1)
